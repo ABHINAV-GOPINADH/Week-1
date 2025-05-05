@@ -1,8 +1,9 @@
 #  Python Mini Projects – Week 1
 
+## May 5
 This repository includes three beginner-friendly Python programs for practice in GUI and console-based applications using Python.
 
-##  1. Simple Calculator (Tkinter GUI)
+###  1. Simple Calculator (Tkinter GUI)
 
 A basic calculator that supports arithmetic operations (addition, subtraction, multiplication, and division).
 
@@ -16,7 +17,7 @@ A basic calculator that supports arithmetic operations (addition, subtraction, m
 ```bash
 python calculator.py
 ```
- ## 2. Number Guessing Game (Tkinter GUI)
+ ### 2. Number Guessing Game (Tkinter GUI)
 A fun number guessing game where the user guesses a randomly generated number between 1 and 100.
 
 **Features:**
@@ -30,7 +31,7 @@ A fun number guessing game where the user guesses a randomly generated number be
 ```bash
 python guessing_game.py
 ```
-## Fibonacci Sequence Generator
+### Fibonacci Sequence Generator
 A program that generates and prints the Fibonacci sequence up to a user-specified number of terms.
 
 **Features:**
