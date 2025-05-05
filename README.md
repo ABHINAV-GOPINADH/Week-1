@@ -31,7 +31,7 @@ A fun number guessing game where the user guesses a randomly generated number be
 ```bash
 python guessing_game.py
 ```
-### Fibonacci Sequence Generator
+###3. Fibonacci Sequence Generator
 A program that generates and prints the Fibonacci sequence up to a user-specified number of terms.
 
 **Features:**
