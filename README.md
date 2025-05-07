@@ -65,7 +65,7 @@ This project implements a simple login system using Python. Users can register a
   ```bash
   python login.py
   ```
-  ### 2. Temperature Converter
+### 3. Temperature Converter
 This project converts temperature values between Celsius, Fahrenheit, and Kelvin. It provides an easy-to-use interface to enter a temperature and choose the desired conversion unit.
 **Features:**
 - Converts Celsius to Fahrenheit and Kelvin.
@@ -74,4 +74,38 @@ This project converts temperature values between Celsius, Fahrenheit, and Kelvin
 **How to Run:**
   ```bash
   python temperature.py
+  ```
+## May 7
+
+### 1. Word Frequency Counter
+This GUI app reads a text file and counts how often each word appears.
+**Features:**
+- GUI input for file name.
+- Reads file content and counts word frequency.
+- Displays result in the GUI.
+**How to Run:**
+  ```bash
+  python word_frequency.py
+  ```
+### 2. User Input Save & Read 
+This app allows users to input text and a file name, then saves the input to the file and reads it back.
+**Features:**
+- Enter custom file name and content.
+- Save input to a file.
+- Read content from the same file.
+- Simple Tkinter-based interface.
+**How to Run:**
+  ```bash
+  python text_saver.py
+  ```
+### 3. Contact Book
+A simple contact book application that lets you add, search, view, and delete contacts. It stores contact data (name and phone number) using a Python dictionary and saves/loads data from a JSON file.
+**Features:**
+- Add, search, and delete contacts.
+- View all contacts.
+- Data stored persistently using a JSON file.
+- Clean GUI built with tkinter.
+**How to Run:**
+  ```bash
+  python contact.py
   ```
