@@ -133,3 +133,27 @@ A simple contact book application that lets you add, search, view, and delete co
   ```bash
   python contact.py
   ```
+## May 8
+
+###  Sales Data Analysis
+
+This project presents a Jupyter Notebook that performs exploratory data analysis (EDA) on sales data. The goal is to extract meaningful insights, visualize trends, and support data-driven business decisions.
+
+#### Files
+
+- `sales.ipynb`: Jupyter notebook containing the full analysis and visualizations.
+
+#### Features
+
+- Data cleaning and handling of missing values  
+- Trend analysis using grouped data  
+- Visualizations using `matplotlib`  
+- Summary statistics and insights  
+
+#### Technologies Used
+
+- Python 3.x  
+- Jupyter Notebook  
+- Pandas  
+- Matplotlib  
+- NumPy  
