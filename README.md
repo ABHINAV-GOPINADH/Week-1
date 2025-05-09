@@ -157,3 +157,74 @@ This project presents a Jupyter Notebook that performs exploratory data analysis
 - Pandas  
 - Matplotlib  
 - NumPy  
+
+## May 9
+
+### 1. Bank Account GUI App (with PySide6)  
+
+A simple desktop banking interface that simulates a bank account system using Object-Oriented Programming (OOP) and PySide6 for the GUI.
+
+**Features:**
+
+- User login with username and password
+- Deposit money
+- Withdraw money (with balance check)
+- Display current balance
+- Clean OOP-based code structure using Python classes
+
+#### Technologies Used
+
+- **Python 3.x** 
+- **PySide6** 
+- **Object-Oriented Programming (OOP)** 
+---
+
+**How to Run:**
+
+  ```bash
+  python bankAccount.py
+  ```
+
+### 1. Student Management System
+
+A simple Student Management System implemented using Python and Object-Oriented Programming (OOP). This system allows you to add, remove, and search for student records through a basic interface.
+
+**Features:**
+
+- Add new student records
+- Remove existing students by ID
+- Search students by name or ID
+- List all students
+- Object-Oriented structure for easy extensibility
+
+#### Technologies Used
+
+- **PySide6** 
+- **Object-Oriented Programming (OOP)** 
+---
+
+**How to Run:**
+
+  ```bash
+  python StudentManager.py
+  ```
+
+###  Streamlit Data Analysis App (OOP-Based)
+
+This is a simple Streamlit-based data analysis tool that allows users to upload a CSV file, analyze its contents using object-oriented programming (OOP) design, and visualize numeric data through plots.
+
+**Features:**
+
+- Upload any `.csv` file
+- View data preview and summary statistics
+- Automatically detect numeric columns
+- Calculate column-wise average
+- Line plot and histogram visualization
+- Clean and modular object-oriented design
+
+**How to Run:**
+
+  ```bash
+  python -m Analyze.py
+
+  ```
