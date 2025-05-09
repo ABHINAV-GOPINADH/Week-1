@@ -222,6 +222,13 @@ This is a simple Streamlit-based data analysis tool that allows users to upload 
 - Line plot and histogram visualization
 - Clean and modular object-oriented design
 
+#### Technologies Used
+
+- **Streamlit** 
+- **Pandas** 
+- **Matplotlib** 
+- **Object-Oriented Programming (OOP)** 
+
 **How to Run:**
 
   ```bash
